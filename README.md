@@ -26,4 +26,4 @@ The scripts provided here are intended to simplify the installation of RDKit and
 
 To understand how to use molecular visualization, open the included Jupyter notebook called 'molecular-visualization.ipynb' and rerun it (Run -> Run All Cells).
 
-[Sample visualization](sample-visualization.png)
+![Sample visualization](sample-visualization.png)
